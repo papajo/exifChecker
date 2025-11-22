@@ -1,0 +1,5 @@
+{
+  "name": "ExifAI Lens",
+  "description": "An intelligent photography assistant that analyzes images to extract or infer EXIF metadata (Camera, Lens, Settings) using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
